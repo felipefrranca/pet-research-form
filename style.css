@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 1rem 0 0 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f9bc60;
+    font-family: 'Helvetica', sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+#title, #description {
+    text-align: center;
+    color: #004643;
+    font-size: 3rem;
+}
+
+.form {
+    border-radius: .5rem .5rem 0 0;
+    padding: 1rem;
+    text-align: justify;
+    width: 40rem;
+    background-color: #004643;
+}
+
+::placeholder {
+    padding: .5rem;
+}
+
+#name, #email, #number, #dropdown {
+    margin-bottom: 1rem;
+    width: 100%;
+    height: 2rem;
+}
+
+#definitely, #maybe, #notsure, #dog, #cat, #hamster {
+    margin-left: 1rem;
+}
+
+.textarea {
+    margin-top: 2rem;
+}
+
+textarea {
+    border-radius: .25rem;
+    width: 100%;
+}
+
+#submit {
+    width: 100%;
+    height: 4rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    background-color: #f9bc60;
+    font-size: 1rem;
+    font-weight: bold;
+    color: black;
+}
+
+#submit:hover {
+    background-color: greenyellow;
+}
