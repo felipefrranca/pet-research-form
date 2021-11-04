@@ -1,3 +1,5 @@
-# Formulário de pesquisa de animais de estimação usando apenas HTML e CSS
+# Formulário de pesquisa de animais de estimação
 
-<a href="https://codepen.io/felipefrranca/pen/KKvygdM" targer="_blank">Codepen link</a>
+Link do projeto no <a href="https://codepen.io/felipefrranca/pen/KKvygdM" targer="_blank">CodePen</a>
+
+Linguagens usadas: HTML e CSS
